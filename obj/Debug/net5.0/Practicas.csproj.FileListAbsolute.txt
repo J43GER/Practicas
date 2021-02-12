@@ -1,0 +1,16 @@
+C:\Users\woody\Desktop\Practicas\obj\Debug\net5.0\Practicas.csprojAssemblyReference.cache
+C:\Users\woody\Desktop\Practicas\obj\Debug\net5.0\Practicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woody\Desktop\Practicas\obj\Debug\net5.0\Practicas.AssemblyInfoInputs.cache
+C:\Users\woody\Desktop\Practicas\obj\Debug\net5.0\Practicas.AssemblyInfo.cs
+C:\Users\woody\Desktop\Practicas\obj\Debug\net5.0\Practicas.csproj.CoreCompileInputs.cache
+C:\Users\woody\Desktop\Practicas\bin\Debug\net5.0\Practicas.exe
+C:\Users\woody\Desktop\Practicas\bin\Debug\net5.0\Practicas.deps.json
+C:\Users\woody\Desktop\Practicas\bin\Debug\net5.0\Practicas.runtimeconfig.json
+C:\Users\woody\Desktop\Practicas\bin\Debug\net5.0\Practicas.runtimeconfig.dev.json
+C:\Users\woody\Desktop\Practicas\bin\Debug\net5.0\Practicas.dll
+C:\Users\woody\Desktop\Practicas\bin\Debug\net5.0\ref\Practicas.dll
+C:\Users\woody\Desktop\Practicas\bin\Debug\net5.0\Practicas.pdb
+C:\Users\woody\Desktop\Practicas\obj\Debug\net5.0\Practicas.dll
+C:\Users\woody\Desktop\Practicas\obj\Debug\net5.0\ref\Practicas.dll
+C:\Users\woody\Desktop\Practicas\obj\Debug\net5.0\Practicas.pdb
+C:\Users\woody\Desktop\Practicas\obj\Debug\net5.0\Practicas.genruntimeconfig.cache
