@@ -1,10 +1,24 @@
 ﻿/* 1) Crear un programa que pida números positivos al usuario, y vaya calculando la suma de todos ellos (terminará cuando se teclea un número negativo o cero). 
 int x = 0, y = 0;
-Do {
-Console.WriteLine("Favor introducir un número positivo para sumar, si desea detener el proceso introducir un 0 o un número negativo");
+
+do{Console.WriteLine("Favor de introducir un número para sumar, si desea detener la operación, favor de introducir un 0 o un número negativo.");
 y = int.Parse(Console.ReadLine());
-x = x + y;
-} While (y != 0 || y > 0);
+
+if (y > 0 && y != 0)
+  {
+      x = x + y;
+  }
+                
+else if (y < 0 || y == 0)
+ {
+       break;
+ }
+
+ Console.Clear();
+
+ } while (y > 0 && y != 0);
+
+ Console.WriteLine("La suma es igual a: {0}", x);
 
 2) Crea un programa que escriba en pantalla los números del 1 al 10, usando "do..while.
 int x = 1
@@ -12,7 +26,7 @@ Do {
 Console.WriteLine(x);
 x++;
 }
-While (x<10);
+While (x<=10);
 
 3) Crear un programa que muestre los primeros 10 números pares a partir del producto de (10 x 10)
 for ( int i = 10 * 10; i <= 120; i = i + 2)
