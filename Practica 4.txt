@@ -4,7 +4,7 @@ Do {
 Console.WriteLine("Favor introducir un número positivo para sumar, si desea detener el proceso introducir un 0 o un número negativo");
 y = int.Parse(Console.ReadLine());
 x = x + y;
-} While(y != 0 || y > 0);
+} While (y != 0 || y > 0);
 
 2) Crea un programa que escriba en pantalla los números del 1 al 10, usando "do..while.
 int x = 1
