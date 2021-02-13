@@ -28,7 +28,7 @@ string ALPHABETH = alphabeth.ToUpper();
 
 foreach (char i in ALPHABETH)
 {
-Console.WriteLine(I);
+Console.WriteLine(i);
 }
 */
 
